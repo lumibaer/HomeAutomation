@@ -12,4 +12,4 @@ Various Home Automation Topics (IFTTT/NodeRed/MyStrom)
     A port forwarding on the public static IP adress reaching out over the VPN tunnel to the mobile device allows the communication from IFTTT  to the mobile device.
 ## NodeRed
     NodeRed can be used to implement a logic to control several devices.
-    [A sample API] (https://github.com/lumibaer/HomeAutomation/blob/master/flows.json) with a Dashboard and 2 actors have been created
+    [A sample API](https://github.com/lumibaer/HomeAutomation/blob/master/flows.json) with a Dashboard and 2 actors have been created
