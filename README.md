@@ -1,8 +1,7 @@
 # HomeAutomation
 Various Home Automation Topics (IFTTT/NodeRed/MyStrom)
 
-Following Topics are covered:
-  *IFTTT
+##IFTTT
     Push and Pull
-  *NodeRed
+##NodeRed
     A sample API with a Dashboard and 2 actors
